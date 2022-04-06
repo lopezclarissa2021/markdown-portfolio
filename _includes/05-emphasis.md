@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I love to **problem solve**,
+**Communication** and **Collaberation** are key! 
+I work well with others and independently. I have a **strong passion** and **appreciation** for writing code and watching it come to life!*
